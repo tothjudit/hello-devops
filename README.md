@@ -24,7 +24,7 @@ Egyszerű React + Vite alapú „Hello DevOps” alkalmazás, amelyen keresztül
 
 ## 2. Projekt indítása fejlesztői módban
 
-A repót klónozás után a következő lépések szükségesek:
+A repó klónozása után a következő lépések szükségesek:
 
 ```bash
 # 1. Lépj be a projekt mappába
