@@ -12,13 +12,13 @@ Egyszerű React + Vite alapú „Hello DevOps” alkalmazás, amelyen keresztül
 
 ## 1. Követelmények
 
-- **Node.js**: 18+ (a fejlesztés során: v24.x)
-- **npm**: 9+ (a fejlesztés során: 11.x)
+- **Node.js** (a fejlesztés során: v24.11.1)
+- **npm** (a fejlesztés során: 11.6.2)
 - **Git**
 - **Docker Desktop** (Windows)
 - **Visual Studio Code**
   - Dev Containers bővítmény
-  - (opcionális) Docker bővítmény
+  - Docker bővítmény
 
 ---
 
